@@ -8,3 +8,5 @@ This work needs improvement on the following lines:
  4. Adding the test data from a different source instead of hard coding
  5. Usage of explicit wait 
  6. Execution on the Jenkins 
+
+Note:			Assertion on the verification of the selected flight information will always fail since the page gives only a static information.
